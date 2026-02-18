@@ -6,7 +6,6 @@ A curated list of awesome drones, builds, kits, DIYs, resources and other relate
 Please feel free to [pull requests](https://github.com/piyushchauhan/awesome-drones/pulls)
 
 ## Table of Contents
-
 * [Builds and Hardware](#Builds-and-Hardware)
 * [First Person View-FPV](#First-Person-View-FPV)
 * [Unmanned Aerial Vehicle-UAV](#Unmanned-Aerial-Vehicle-UAV)
@@ -28,6 +27,8 @@ Please feel free to [pull requests](https://github.com/piyushchauhan/awesome-dro
 ### Simulator
 - [Mircosot AirSim](https://github.com/microsoft/AirSim)
 
+### Tuning & Analysis
+- [FPVtune](https://fpvtune.com) - Automatic Betaflight PID tuning from blackbox logs. Upload flight data, get optimized PID and filter settings in minutes.
 
 ## News
 - [sUAV News](https://www.suasnews.com/)
